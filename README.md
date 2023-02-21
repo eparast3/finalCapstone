@@ -16,18 +16,31 @@ common within each cluster that has been found.
 
 
 Contents:
+
 Unsupervised learning - PCA and clustering
+
 Understanding the dataframe
+
 Statisitical summary of the dataset
+
 Look at how our Data features correlate with one another
+
 Boxplot for feature distributions
+
 Showing how each component attributes itself to the explained variance
+
 Cumulative variance plot
+
 Scree plot
+
 Create a graph to show the minimum number of components needed for our analysis
+
 Create a barplot to visually represent how each Component affects the varience
+
 Create biplot to represent Components within the total DataFrame
+
 Hierarchical clustering
+
 K-means clustering
 
 Installation:
